@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dc7db2e.css",
+    "main.js": "/static/js/main.bdcb5374.js",
+    "static/js/787.f6ad1cc7.chunk.js": "/static/js/787.f6ad1cc7.chunk.js",
+    "static/media/itseumesmo.png": "/static/media/itseumesmo.04bffd1db9685178dddc.png",
+    "static/media/samuraimentors.png": "/static/media/samuraimentors.041cea65ddca18de8dbb.png",
+    "static/media/samuraime.png": "/static/media/samuraime.3c0e949166b3f1c23502.png",
+    "static/media/SamuraiHer.png": "/static/media/SamuraiHer.7eb3dce6227d8e373b76.png",
+    "static/media/samurais.png": "/static/media/samurais.ce11e1639e0d713e7a03.png",
+    "static/media/logo.png": "/static/media/logo.50422f6ccc43559bfcfd.png",
+    "index.html": "/index.html",
+    "main.8dc7db2e.css.map": "/static/css/main.8dc7db2e.css.map",
+    "main.bdcb5374.js.map": "/static/js/main.bdcb5374.js.map",
+    "787.f6ad1cc7.chunk.js.map": "/static/js/787.f6ad1cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc7db2e.css",
+    "static/js/main.bdcb5374.js"
+  ]
+}
