@@ -1,9 +1,6 @@
 import React from "react";
 import "./Blog.css";
-import Blog1 from './img/samuraime.png';
-import Blog2 from './img/samuraimentors.png';
-import Blog3 from './img/SamuraiHer.png';
-import Blog4 from './img/samurais.png'
+
 
 function Blog() {
   return (
@@ -24,7 +21,7 @@ function Blog() {
               <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Blog1} alt="" className="project__img" />
+                             <img src={"https://i.ibb.co/2n9HnbS/samuraime.png"} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
@@ -41,7 +38,7 @@ function Blog() {
               <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Blog2} alt="" className="project__img" />
+                             <img src={"https://i.ibb.co/xG0GHhL/samuraimentors.png"} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
@@ -58,7 +55,7 @@ function Blog() {
               <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Blog3} alt="" className="project__img" />
+                             <img src={"https://i.ibb.co/j6wQ48j/Samurai-Her.png"} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
@@ -74,7 +71,7 @@ function Blog() {
               <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Blog4} alt="" className="project__img" />
+                             <img src={"https://i.ibb.co/1XsZGPT/samurais.png"} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>

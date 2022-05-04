@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import "./Home.css";
-import logo from "./img/logo.png";
+
 
 function Home() {
   // fixed Header
@@ -15,7 +15,7 @@ function Home() {
       <div className="home__bg">
         <div className="header d__flex align__items__center pxy__30">
           <div className="logo">
-            <img src={logo} alt="" />
+            <img src={"https://i.ibb.co/b1F8mdj/logo.png"} alt="" />
           </div>
           <div className="navigation pxy__30">
             <ul className="navbar d__flex">
