@@ -39,6 +39,12 @@ input.contact{
     width: 100%;
     overflow: hidden;
 }
+
+.feedback{
+    color: yellow;
+    text-shadow: #191919;
+}
+
 textarea#message{
     height: 120px;
     background: none;

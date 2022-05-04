@@ -37,8 +37,10 @@ const Contact = () => {
                             <h1 className="hire__text">Let's keep in touch!</h1> 
                             <br/>
                             <p className="hire__text white">Maybe I'm not exactly what you're looking for right now and that's fine! But with a little patience and a good mentorship I will become a much better professional than what you were looking for, I can really assure you that! In this way, we can have a long, lasting and prosperous partnership!</p>
-                           <p className="hire__text white"><strong>(+55) 69-9-9386-9329(Telegram & Whatsapp) <br/>
+                           <p className="hire__text white"><strong>(+55) 69-9-9386-9329(Telegram & Whatsapp) 
                              </strong> or email <strong>amoedovicc@gmail.com</strong></p>
+                             <br/>
+                            <p className="feedback">Maybe you can give me some feedback, let me know what you liked, what you didn't like. Help me improve!</p> 
                         </div>
                         
                         <div className="input__box" >

@@ -5,17 +5,13 @@ function Project() {
   return (
     <div className="project component__space" id="Portfolio">
       <div className="heading">
-        <h1 className="heading">My web developer portfolio</h1>
+        <h1 className="heading">WEB DEVELOPER PROJECTS</h1>
+        <br/>
         <p className="heading p__color">
-        These are my recent works! All of them are inspired by a fictional tech company with a 'synthwave' and 'cyberpunk' vibe. 
-        <br/>
-        The 'Synthrise Corporation' is a 'fake corporation' working on multiple fronts, ranging from music, artificial intelligence,
-        <br/> 
-        robotics, space travel, movies, futuristic products and even web3 (NFT/Blockchain).
-        <p/>
-        All my side projects will be inspired by this 'fake company' I invented, they are great for practicing other skills I want to acquire. 
-        <br/>
-        (Unreal 5 in my spare time)
+        These are some of my recent projects! They are all inspired by a fictional tech company with a 'synthwave' and 'cyberpunk' vibe. <br/>
+        'Synthrise Corporation' is a 'fake corporation' that works in multiple fields, from music, artificial intelligence, robotics, space travel, movies, futuristic products and has been developing more and more technologies.<br/>
+         Many of my side projects will be inspired by this 'fake company' I made up, they are great for practicing other skillsI want to acquire such as Unreal 5 technology<br/>
+          (in my spare time)
         </p>
       </div>
        <div className="container">
@@ -31,28 +27,36 @@ function Project() {
                      </div>
                      <div className="project__meta absolute">
                      <h5 className="project__text">SynthriseMovies</h5>
-                     <h4 className="project__text">(Homepage UI, REST API, Next.js, Typescript, Tailwind, FirebaseAuth and StrypePayments)</h4>
+                     <h4 className="project__text">  A film platform inspired by the Netflix structure! 
+                     <br/>
+                         (Homepage UI, REST API, Next.js, Typescript, Tailwind, FirebaseAuth and StrypePayments)</h4>
                      <a href="https://synthrise-movies.vercel.app" target="_blank" className="project__btn">View Details</a>
+                     <br/>
+                     <a href="https://www.youtube.com/watch?v=jIQ10rh64gI" target="_blank" className="project__btn">Tutorial / Demo</a>
+
                      </div>
                  </div>
              </div>
-
 
              <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={'https://s1.gifyu.com/images/synthnft-1.gif'} alt="" className="project__img" />
+                             <img src={'https://s8.gifyu.com/images/synthbrain-1.gif'} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">Synth-Azon Web 3.0 Blockchain</h5>
-                     <h4 className="project__text">(Anchor - Rust), Next JS, Netlify, Phantom, Sanity.io, and Tailwind CSS</h4>
-                     <a href="https://synthrise-store.vercel.app" target="_blank" className="project__btn">View Details</a>
+                     <h5 className="project__text">Synthrise-Kyoto</h5>
+
+                     <h4 className="project__text">'Synthrise' Corporations is pleased to present you our masterpiece 'Kyoto Experience' ハイテクノロジー
+                     <br/>
+                    (HTML, SCSS, Javascript)</h4>
+                     <a href="https://whoweare-synthrise.vercel.app/index.html" target="_blank" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
+
 
 
              <div className="col__3">
@@ -64,12 +68,16 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">SynthriseMusic</h5>
-                     <h4 className="project__text">(Next.js, Tailwind CSS, Spotify API, NextAuth, Recoil) </h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h5 className="project__text">SynthriseMusic</h5> 
+                     <h4 className="project__text">Good times come with good music!
+                     <br/>
+                         (Next.js, Tailwind CSS, Spotify API, NextAuth, Recoil)   </h4>
+                     <a href="https://youtu.be/3kNUyfJiJjs" target="_blank" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
+
+             
 
 
              <div className="col__3">
@@ -81,43 +89,34 @@ function Project() {
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">SynthriseCommerce</h5>
-                     <h4 className="project__text">(ReactAPI, Sanity, NextJs, Stripe )</h4>
+                     <h5 className="project__text">Synth-Store</h5>
+                     <h4 className="project__text"> Are you Ready for the future? Synthrise will help you to adapt, check out some of our products in our store!
+                      <br/>
+                         (ReactAPI, Sanity, NextJs, Stripe )</h4>
                      <a href="https://synthrise-store.vercel.app" target="_blank" className="project__btn">View Details</a>
+                     <br/>
+                     <a href="https://www.youtube.com/watch?v=mjM9PaGCcOg" target="_blank" className="project__btn">Tutorial / Demo</a>
                      </div>
                  </div>
              </div>
 
 
-             <div className="col__3">
-                 <div className="project__box pointer relative">
-                     <div className="project__box__img pointer relative">
-                         <div className="project__img__box">
-                             <img src={'https://s1.gifyu.com/images/synthnft-4.gif'} alt="" className="project__img" />
-                         </div>
-                         <div className="mask__effect"></div>
-                     </div>
-                     <div className="project__meta absolute">
-                     <h5 className="project__text">SynthrisePages</h5>
-                     <h4 className="project__text">Landingpage (HTML, CSS, Javascript)</h4>
-                     <a href="#" className="project__btn">View Details</a>
-                     </div>
-                 </div>
-             </div>
-
+     
 
              <div className="col__3">
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={'https://s1.gifyu.com/images/synthnft-5.gif'} alt="" className="project__img" />
+                             <img src={'https://s8.gifyu.com/images/synthsearch.gif'} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
                      <div className="project__meta absolute">
-                     <h5 className="project__text">SynthriseLocker</h5>
-                     <h4 className="project__text">(NEXT.JS + NEXT-AUTH + PLANETSCALE + PRISMA + TYPESCRIPT + TAILWIND CSS)</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <h5 className="project__text">Synthrise-Search Engine</h5>
+                     <h4 className="project__text">Simple, quick and effective! Synthrise also has a search engine!
+                     <br/>
+                         (ReactJs, Tailwind CSS, GoogleSearch API, Dark-Mode)</h4>
+                     <a href="https://synthrise-search.vercel.app/search" target="_blank" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>

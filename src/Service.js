@@ -6,12 +6,12 @@ function Service() {
     <div className="service component__space" id="Services">
 
       <div className="heading">
-        <h1 className="heading">Skills I like to improve!</h1>
+        <h1 className="heading">SKILLS</h1>
         <p className="heading p__color">
-        I really enjoy improving knowledge
-        </p>
+        I've been working on a few small projects using these tools and I want to improve my skills and maximize my potential!<br/>
+       And I'm always open to learning new skills, just give me the right direction!    </p>
         <p className="heading p__color">
-       and learning new things.
+    
         </p>
       </div>
 
